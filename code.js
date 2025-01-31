@@ -2,7 +2,7 @@
 // Source: https://github.com/iBug/pac
 // Time: @@TIME@@
 
-var proxy = __PROXY__;
+var proxy = '127.0.0.1:10808';
 var direct = "DIRECT";
 
 // lower: lower_index
